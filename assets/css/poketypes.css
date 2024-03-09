@@ -1,0 +1,71 @@
+.Grama{
+    background-color: green;
+}
+
+.Veneno{
+    background-color: blueviolet;
+}
+
+.Fogo{
+    background-color: orange;
+}
+
+.Água{
+    background-color:darkturquoise;
+}
+
+.Elétrico{
+    background-color: yellow;
+}
+
+.Terra{
+    background-color:saddlebrown;
+}
+
+.Voador{
+    background-image: linear-gradient(white, aqua);
+}
+
+.Gelo{
+    background-color: aqua;
+}
+
+.Pedra{
+    background-color:silver;
+}
+
+.Aço{
+    background-color:dimgrey;
+}
+
+.Lutador{
+    background-image: linear-gradient(white, orange);
+}
+
+.Veneno{
+    background-color: blueviolet;
+}
+
+.Fantasma{
+    background-color: blueviolet;
+}
+
+.Sombrio{
+    background-color: blueviolet;
+}
+
+.Venenoso{
+    background-color: blueviolet;
+}
+
+.Dragão{
+    background-color: blueviolet;
+}
+
+.Fada{
+    background-color: blueviolet;
+}
+
+.Psíquico{
+    background-color: blueviolet;
+}

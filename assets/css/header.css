@@ -1,0 +1,94 @@
+header {
+    padding: 20px;
+    height: 50px;
+
+    background-color: rgb(168, 168, 168);
+    box-shadow: 0px 10px #000000 ;
+}
+
+header img{
+    height: 50px;
+}
+
+.pokebola{
+    float: left;
+
+    margin-left: -53px;
+}
+
+.pokesombra{
+    float: left;
+
+    margin-left: 20px;
+    margin-top: 3px;
+}
+
+header span{
+    margin-top: 0px;
+    margin-left: 50px;
+    
+    float: left;
+
+    font-size: 30px;
+}
+
+.headline{
+    float: left;
+}
+
+.headline, .pesquisa-form{
+    display: flex;
+    align-items: center;
+}
+
+.pesquisa-form{
+    justify-content: right;
+}
+
+.pesquisa-form label{
+    margin-top: 17.5px;
+    margin-right: 10px;
+
+    float: left;
+
+    font-size: 15px; 
+}
+
+#pesquisa-id{
+    padding: 20px;
+    height: 30px;
+
+    margin-top: 0;
+    margin-top: 3px;
+}
+
+#pesquisa-id, #pesquisa-btn-id{
+    background-color: white;
+    box-shadow: 5px 5px #000000;
+    border-style:solid;
+    border-color: black;
+    border-radius: 50px;
+    
+    font-size: 12.5px;
+    font-family: 'Press Start 2P', cursive;
+
+    transition: all 0.4s;
+}
+
+#pesquisa-btn-id{
+    height: max-content;
+    width: max-content;
+
+    margin-left: 10px;
+    margin-top: 5px;
+
+    float: right;
+    padding: 5px;
+    
+    font-family: 'Press Start 2P', cursive;
+}
+
+#pesquisa-id:hover, #pesquisa-btn-id:hover{
+    background-color: #000000;
+    color: white;
+}
